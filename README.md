@@ -1,16 +1,16 @@
+# <ins> Computing Portfolio </ins>
+_Brynn Wilary_
 ## Hi there 👋
+This portfolio is a compilation of my computing projects for the Computing and Digital Technology minor at the University of Notre Dame. This portfolio also contains my achievements, skills, and certificates.
+##### Contact Information:
+bwilary@nd.edu
 
-<!--
-**brwilary23/brwilary23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.linkedin.com/in/brynnwilary/
+##### Coding Languages:
+Python, Java, Java Script, SQL
+##### Software:
+Microsoft Excel, Power BI, Salesforce
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Achievements
+* National Center for Women & Information Technology Aspirations in Computing Central Florida Affiliate Winner (2022)
+* National Center for Women & Information Technology Aspirations in Computing Rising Star Award (2020)
