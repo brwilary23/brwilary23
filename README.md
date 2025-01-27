@@ -1,7 +1,5 @@
 <code><img height="200px" src= "https://media.licdn.com/dms/image/v2/C4E1BAQFLFaX4Mx3MCw/company-background_10000/company-background_10000/0/1586803786153/notre_dame_executive_education_cover?e=2147483647&v=beta&t=bQ6aXoMHkUxVyPNDeTHS2gheG3plahiufq6CTx2S5C4" ></code>
 ___
-<a href="https://github.com/brwilary23/Wilary_CV">📄 See Full CV</a>
-___
 
 ## About Me 👋
 I am an **Sophomore** at the **University of Notre Dame** 🏰. I am a **finance major** with a **computing and digital technology minor** , who enjoys using code to solve complex quantitative and logic problems.
