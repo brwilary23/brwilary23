@@ -5,6 +5,7 @@ This portfolio is a compilation of my computing projects for the Computing and D
 
 ##### Contact Information:
 bwilary@nd.edu
+
 https://www.linkedin.com/in/brynnwilary/
 ##### Coding Languages:
 Python, Java, Java Script, SQL
