@@ -16,7 +16,6 @@ ___
 - **National Center for Women & Information Technology Aspirations in Computing Rising Star Award (2020)**
 
 <strong>Coursework and Projects</strong>
-This semester, I will be working on creating various project using Visual Studio Code and Starlight!
 <ol>
   <li>Project 1</li>
   <li>Project 2</li>
@@ -44,6 +43,7 @@ ___
 
 ___
 ## Computing Projects 🚀
+This semester, I will be working on creating various project using Visual Studio Code and Starlight! My goals are to further develop my coding and data analysis skills!
 <details><summary>
 <a href='https://github.com/dmsmiley/Predicting-Salaries'><strong>First Project</strong></a>
 </summary>
