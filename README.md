@@ -2,7 +2,7 @@
 ___
 
 ## About Me 👋
-I am an **Sophomore** at the **University of Notre Dame** 🏰. I am a **finance major** with a **computing and digital technology minor** , who enjoys using code to solve complex quantitative and logic problems.
+I am an **Sophomore** at the **University of Notre Dame** 🏰. I am a **finance major** with a **computing and digital technology minor** , who enjoys using code to solve complex quantitative and logic problems. I love going to the beach, working out, and spending time with friends!
 
 ___
 ## Education 🎓
@@ -16,6 +16,7 @@ ___
 - **National Center for Women & Information Technology Aspirations in Computing Rising Star Award (2020)**
 
 <strong>Coursework and Projects</strong>
+This semester, I will be working on creating various project using Visual Studio Code and Starlight!
 <ol>
   <li>Project 1</li>
   <li>Project 2</li>
