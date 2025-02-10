@@ -23,7 +23,7 @@ ___
   <li>Project 4</li>
   <li>Project 5</li>
   <li>Project 6</li>
-  <li><a href="https://github.com/dmsmiley/Italian_Restaurant_Review_Boston">Project Sample Link</a></li>
+  <li><a href="basic-streamlit-app/main.py">Project Sample Link</a></li>
 </ol>
 </details>
 
