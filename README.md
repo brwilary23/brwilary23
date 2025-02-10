@@ -43,7 +43,11 @@ ___
 
 ___
 ## Computing Projects 🚀
-This semester, I will be working on creating various project using Visual Studio Code and Starlight! My goals are to further develop my coding and data analysis skills! I will do this by constantly learning new things, creating new apps, and expanding my knowledge of coding languages.
+This semester, I will be working on creating various project using Visual Studio Code and Starlight! 
+<br>
+<strong> Goals: </strong>
+My goals are to further develop my coding and data analysis skills! I will do this by constantly learning new things, creating new apps, and expanding my knowledge of coding languages.
+<br>
 <details><summary>
 <a href='https://github.com/brwilary23/Wilary-Python-Portfolio'><strong>Basic Streamlit App</strong></a>
 </summary>
