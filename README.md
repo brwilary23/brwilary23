@@ -54,60 +54,6 @@ This semester, I will be working on creating various project using Visual Studio
 <br>
 <strong> Goals: </strong>
 My goals are to further develop my coding and data analysis skills! I will do this by constantly learning new things, creating new apps, and expanding my knowledge of coding languages.
-<br>
-<details><summary>
-<a href='https://github.com/brwilary23/Wilary-Python-Portfolio'><strong>Basic Streamlit App</strong></a>
-</summary>
-<br>
-<strong>Description: This project sorts through Netflix content based on a variety of factors.</strong>
-<br> 
-<strong>Skills</strong>
-<ul>
-  <li>Visual Studio Code
-  <li>Streamlit
-  <li>Pandas
-</ul>
-<strong>Python Libraries</strong>
-<ul>
-  <li>Streamlit</li>
-  <li>Pandas</li>
-</ul>
-</details>
-
-<details><summary>
-<a href='https://github.com/dmsmiley/Italian_Restaurant_Review_Boston'><strong>Project 2</strong></a>
-</summary>
-<br>
-<strong>Skills</strong>
-<ul>
-  <li>Skill A
-  <li>Skill B
-  <li>Skill C
-</ul>
-<strong>Python Libraries</strong>
-<ul>
-  <li>Pandas</li>
-  <li>NumPy</li>
-</ul>
-</details>
-
-<details><summary>
-<a href='https://github.com/dmsmiley/USS_Indianapolis'><strong>Project 3</strong></a>
-</summary>
-<br>
-<strong>Skills</strong>
-<ul>
-  <li>Skill A
-  <li>Skill B
-  <li>Skill C
-</ul>
-<strong>Python Libraries</strong>
-<ul>
-  <li>Pandas</li>
-  <li>NumPy</li>
-</ul>
-</details>
-
 ___
 ## Let's Connect 🌐
 <a href="https://www.linkedin.com/in/brynnwilary/">
