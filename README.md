@@ -50,7 +50,7 @@ _TLDR:_ _An interactive app for browsing Netflix content by category._
 ---
 
 ### 🥇 2008 Olympics Medalist Data Analysis  
-📍 [View Project](https://github.com/brwilary23/Wilary-Python-Portfolio/tree/main/TidyData-Project)  
+📍 [View Project](https://github.com/brwilary23/Wilary-Python-Portfolio/tree/main/handling-missing-data)  
 This project cleans and reshapes messy Olympic medal data using pandas, then analyzes medal counts by sport and gender, visualized using seaborn and matplotlib.
 
 **Highlights:**
@@ -63,7 +63,7 @@ _TLDR:_ _A tidy data project exploring Olympic medal trends by gender and sport.
 ---
 
 ### 💹 Stock Price Analysis App  
-📍 [View Project](https://github.com/brwilary23/Wilary-Python-Portfolio/tree/main/StockApp)  
+📍 [View Project](https://github.com/brwilary23/Wilary-Python-Portfolio/tree/main/StreamlitAppFinal)  
 A Streamlit-based app that allows users to select a stock ticker, choose a date range, and visualize historical stock performance using matplotlib. Great for quick exploratory analysis of equity data.
 
 **Highlights:**
