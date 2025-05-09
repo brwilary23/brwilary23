@@ -37,7 +37,7 @@ _TLDR:_ _An app that lets users label and visualize custom named entities in any
 ---
 
 ### 🎬 Netflix Streamlit App  
-📍 [View Project](https://github.com/brwilary23/Wilary-Python-Portfolio/tree/main/NetflixStreamlitApp)  
+📍 [View Project](https://github.com/brwilary23/Wilary-Python-Portfolio/tree/main/basic-streamlit-app)  
 A data exploration app that filters Netflix titles by type, rating, and release year. Created to help users easily navigate Netflix’s catalog using an interactive interface.
 
 **Highlights:**
