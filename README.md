@@ -50,7 +50,7 @@ _TLDR:_ _An interactive app for browsing Netflix content by category._
 ---
 
 ### 🥇 2008 Olympics Medalist Data Analysis  
-📍 [View Project](https://github.com/brwilary23/Wilary-Python-Portfolio/tree/main/handling-missing-data)  
+📍 [View Project](https://github.com/brwilary23/Wilary-Python-Portfolio/tree/main/tidydata-project)  
 This project cleans and reshapes messy Olympic medal data using pandas, then analyzes medal counts by sport and gender, visualized using seaborn and matplotlib.
 
 **Highlights:**
